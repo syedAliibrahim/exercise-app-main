@@ -121,7 +121,19 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Acknowledgements
+## Scrrenshots of UI
+
+#Login Page
 ![login page](https://github.com/syedAliibrahim/exercise-app-main/assets/57465475/dbdf5a32-1aab-4f1e-adcb-c9e201799f87)
+
+#Sign Up Page
+![singnup](https://github.com/syedAliibrahim/exercise-app-main/assets/57465475/feb9dcd4-a223-4e13-8a8c-22871409a10d)
+
+#Activity Log / Dashboard
+![activity log](https://github.com/syedAliibrahim/exercise-app-main/assets/57465475/1579a864-d04c-4745-adbf-ad8c298510eb)
+
+#MongoDB
+![mongodb](https://github.com/syedAliibrahim/exercise-app-main/assets/57465475/f8eb88ef-a2e7-41e7-a150-dcf0f7c16065)
+
 
 
